@@ -1,0 +1,7 @@
+.vscode/
+log*
+*.npy
+*.params
+*_demo.py
+compare/
+__pycache__/
